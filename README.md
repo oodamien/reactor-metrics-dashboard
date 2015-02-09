@@ -1,2 +1,2 @@
 # reactor-metrics-dashboard
-Ractor metrics
+Reactor metrics
